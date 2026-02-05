@@ -19,8 +19,9 @@ Experiencia trabajando en proyectos comerciales, pruebas técnicas y prototipos.
 MMO en desarrollo utilizando Unreal Engine 5.  
 Gameplay systems, Asset Manager, inventario y soporte multijugador.
 
-### [Prueba técnica – Asset Manager](projects/prueba-tecnica-asset-manager)
-Prueba técnica para estudio, enfocada en gestión de assets, tags custom y tienda ingame.
+### [Mini-Golf Crusade](projects/minigolf-crusade/minigolf-crusade)
+2D Mini-golf metroidvania made in Unity.
+Gameplay systems, physics, custom verticality, Addressables.
 
 ### [Otro proyecto](projects/otro-proyecto)
 Descripción corta del proyecto.
