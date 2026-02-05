@@ -1,27 +1,31 @@
 # Fabrizio  
-**Game Programmer – Unity & Unreal Engine**
+**Video Game Programmer – Unity & Unreal Engine**
 
-Desarrollador de videojuegos enfocado en gameplay systems, arquitectura de código y herramientas.
-Experiencia trabajando en proyectos comerciales, pruebas técnicas y prototipos.
+Video Game developer focused on gameplay systems, code architecture and tools.
+Experience working in comercial proyects, independant developments and university prototypes.
 
 ---
 
 ## Links
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- [GitHub](https://github.com/tuusuario)
-- [Itch.io](https://tuusuario.itch.io)
+- [LinkedIn](https://www.linkedin.com/in/fabriziopiermarocchi/)
+- [GitHub](https://github.com/Piermaa)
+- [Itch.io](https://pierma.itch.io/)
 
 ---
 
-## Proyectos
+## Proyects
 
 ### [Secret Forest](projects/secret-forest)
-MMO en desarrollo utilizando Unreal Engine 5.  
-Gameplay systems, Asset Manager, inventario y soporte multijugador.
+MMO in development using Unreal Engine 5.  
+Gameplay systems, Asset Manager, Significance Manager, scalability, fully multiplayer.
+
+### [Mu Online Reforged](projects/mu)
+Descripción corta del proyecto.
 
 ### [Mini-Golf Crusade](projects/minigolf-crusade/minigolf-crusade)
 2D Mini-golf metroidvania made in Unity.
 Gameplay systems, physics, custom verticality, Addressables.
 
-### [Otro proyecto](projects/otro-proyecto)
-Descripción corta del proyecto.
+### [Stalking Gaze](projects/minigolf-crusade/minigolf-crusade)
+Atmospheric horror walking simulator made in UE5.
+Similar solution to "Horror Engine", but made custom and easier to use for the level designers on the team.
