@@ -1,4 +1,4 @@
-# Minigolf – Physics-Driven 2D Vertical Slice
+# Mini-Golf Crusade
 
 **Engine:** Unity  
 **Language:** C#  

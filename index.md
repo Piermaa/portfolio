@@ -19,7 +19,7 @@ Experience working in comercial proyects, independant developments and universit
 MMO in development using Unreal Engine 5.  
 Gameplay systems, Asset Manager, Significance Manager, scalability, fully multiplayer.
 
-### [Mu Online Reforged](projects/mu)
+### [Mu Online Reforged](projects/mu-reforged/mu-reforged)
 Descripción corta del proyecto.
 
 ### [Mini-Golf Crusade](projects/minigolf-crusade/minigolf-crusade)
