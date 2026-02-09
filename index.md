@@ -15,12 +15,21 @@ Experience working in comercial proyects, independant developments and universit
 
 ## Proyects
 
-### [Secret Forest](projects/secret-forest)
-MMO in development using Unreal Engine 5.  
-Gameplay systems, Asset Manager, Significance Manager, scalability, fully multiplayer.
+<div style="margin-bottom: 2rem;">
+  <a href="projects/secret-forest">
+    <img src="/assets/projects/secret-forest.jpg" alt="Secret Forest"
+         style="width:100%; max-width:800px; border-radius:12px;" />
+  </a>
+  <p>
+    <strong>Secret Forest</strong><br>
+    MMO in development using Unreal Engine 5.<br>
+    Gameplay systems, Asset Manager, Significance Manager, scalability.
+  </p>
+</div>
 
 ### [Mu Online Reforged](projects/mu-reforged/mu-reforged)
-Descripción corta del proyecto.
+Remake of the classical Mu Online made in Unreal Engine 5.
+Gameplay systems, Asset Manager, scalability, editor tools.
 
 ### [Mini-Golf Crusade](projects/minigolf-crusade/minigolf-crusade)
 2D Mini-golf metroidvania made in Unity.
