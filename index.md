@@ -17,7 +17,7 @@ Experience working in comercial proyects, independant developments and universit
 
 <div style="margin-bottom: 2rem;">
   <a href="projects/secret-forest">
-    <img src="/assets/projects/secret-forest.jpg" alt="Secret Forest"
+    <img src="/assets/projects/secret-forest/media/thumbnail.jpg" alt="Secret Forest"
          style="width:100%; max-width:800px; border-radius:12px;" />
   </a>
   <p>
