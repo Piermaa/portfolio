@@ -22,7 +22,7 @@ Experience working in comercial proyects, independant developments and universit
   </a>
 </div>
   
-###[Secret Forest] (projects/secret-forest/secret-forest)
+### [Secret Forest] (projects/secret-forest/secret-forest)
 MMO in development using Unreal Engine 5.<br>
 Gameplay systems, Asset Manager, Significance Manager, scalability.
 
