@@ -1,9 +1,8 @@
 # Fabrizio
 
-**Video Game Programmer – Unity & Unreal Engine**
+**Gameplay & Systems Programmer**
 
-Video Game developer focused on gameplay systems, code architecture and tools.
-Experience working in comercial proyects, independant developments and university prototypes.
+Focused on scalable gameplay architecture, tools, and player feel.
 
 ---
 
@@ -21,27 +20,25 @@ Experience working in comercial proyects, independant developments and universit
 
 ### [Secret Forest](projects/secret-forest)
 
-MMO in development using Unreal Engine 5.  
+MMO in development built with Unreal Engine 5.  
+Gameplay systems, Asset Manager usage, scalability-oriented architecture.
 
-Gameplay systems, Asset Manager, Significance Manager, scalability.
+### [Mu Online Reforged](projects/mu-reforged)
 
-### [Mu Online Reforged](projects/mu-reforged/mu-reforged)
+Remake of the classic *Mu Online* developed in Unreal Engine 5.  
+Gameplay systems, multiplayer infrastructure, Asset Manager, editor tools, performance optimization.
 
-Remake of the classical Mu Online made in Unreal Engine 5.  
-Gameplay systems, Asset Manager, scalability, editor tools.
+### [Mini-Golf Crusade](projects/minigolf-crusade)
 
-### [Mini-Golf Crusade](projects/minigolf-crusade/minigolf-crusade)
+2D top-down mini-golf metroidvania built in Unity.  
+Gameplay systems, physics-driven movement, custom verticality solution, Addressables-based progression.
 
-2D Mini-golf metroidvania made in Unity.  
-Gameplay systems, physics, custom verticality, Addressables.
+### [Stalking Gaze](projects/stalking-gaze)
 
-### [Stalking Gaze](projects/minigolf-crusade)
+Atmospheric horror walking simulator developed in Unreal Engine.  
+Custom event framework designed to allow level designers to easily create, combine, and iterate on horror events and interactions.
 
-Atmospheric horror walking simulator made in UE5.  
-Similar solution to "Horror Engine", but made custom and easier to use for the level designers on the team.
+### [The Art of Magic](projects/the-art-of-magic)
 
-
-
-### [The Art of Magic](projects/the-art-of-magic/the-art-of-magic)
-
-A mobile deck-building rogue-like where you draw symbols to cast spells
+Mobile deck-building roguelike where players draw symbols to cast spells.  
+Selected for the ADVA MPVP Mentorship Program.
