@@ -30,7 +30,7 @@ Gameplay systems, Asset Manager usage, scalability-oriented architecture.
 Remake of the classic *Mu Online* developed in Unreal Engine 5.  
 Gameplay systems, multiplayer infrastructure, Asset Manager, editor tools, performance optimization.
 
-[![Mini-Golf Crusade](assets/minigolf-crusade/thumbnail.jpg)](projects/minigolf-crusade)
+[![Mini-Golf Crusade](assets/minigolf-crusade/thumbnail.png)](projects/minigolf-crusade)
 
 ### [Mini-Golf Crusade](projects/minigolf-crusade)
 
