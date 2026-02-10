@@ -1,72 +1,45 @@
-# Secret Forest
+# Stalking Gaze
 
-**Studio:** Zelcar Games LLC  
-**Project Type:** Online Multiplayer Game (MMO)  
-**Engine:** Unreal Engine 5  
-**Languages:** C++, Blueprints  
-**Duration:** ~1 year and 9 months  
+**Atmospheric horror walking simulator – Unreal Engine 5**
 
----
-
-## Role
-
-**Gameplay Programmer → Programming Lead**
-
-I worked as a core gameplay and systems programmer, later taking on a programming lead role, with responsibility over the design, implementation, and technical direction of multiple gameplay and engine-level systems.
+Stalking Gaze is an atmospheric horror experience focused on tension, pacing and environmental storytelling.  
+My main contribution was the design and implementation of a **custom horror event framework**, built to allow level designers to create, combine and iterate on scare events without programmer intervention.
 
 ---
 
-## Responsibilities
+## Core Contribution
 
-- Designed and implemented core gameplay systems using Unreal Engine 5.
-- Developed scalable, data-driven systems with multiplayer considerations.
-- Built complex UI systems based on provided designs and UX requirements.
-- Optimized performance, memory usage, and loading times.
-- Worked extensively with Unreal Engine’s Asset Manager for scalable content loading.
-- Led technical refactors of legacy systems to improve maintainability and stability.
-- Coordinated and reviewed work from other programmers.
-- Collaborated closely with design, art, audio, and backend teams.
-- Contributed to long-term technical planning and system extensibility.
+### Horror Event Framework (Custom Tools)
+
+I developed a modular system that enables designers to author horror sequences in a data-driven way, similar in spirit to solutions like *Horror Engine*, but built specifically for this project and the team’s workflow.
+
+Key goals of the system:
+- Empower level designers to create horror content autonomously.
+- Allow events to be **combined, chained and reused** across levels.
+- Reduce iteration time when tuning tension and pacing.
 
 ---
 
-## Systems & Features (High-Level)
+## Features
 
-- Character progression and attribute-based gameplay systems.
-- Modular combat and ability-related systems.
-- Quest and objective-driven gameplay frameworks.
-- Dialogue and narrative-support systems.
-- Profession and activity-based gameplay systems.
-- Inventory and item-related gameplay features.
-- UI systems for player progression, quests, and gameplay feedback.
-- Multiplayer-safe gameplay logic and validation.
-- Performance optimization and world streaming improvements.
-
-> Note: System descriptions are intentionally high-level due to confidentiality constraints.
+- Event-based horror system configurable from the editor.
+- Support for combining multiple scare elements into a single sequence.
+- Flexible triggering logic (player position, progression, conditions).
+- Reusable event building blocks to avoid one-off scripted logic.
+- Clear separation between gameplay code and content authoring.
 
 ---
 
 ## Technical Focus
 
-- Unreal Engine C++ gameplay architecture.
-- Data-driven design for extensibility and scalability.
-- Multiplayer-aware gameplay programming.
-- Performance optimization for large-scale environments.
-- Asset loading and memory management.
-- Clean code practices and long-term maintainability.
+- Gameplay systems architecture.
+- Custom tools and editor-facing systems.
+- Data-driven design to support rapid iteration.
+- Clean interfaces between code and level design.
 
 ---
 
-## Impact
+## Role
 
-- Improved runtime performance and reduced loading times.
-- Increased system stability and scalability.
-- Established reusable technical foundations for future features.
-- Helped shape the project’s long-term technical direction.
-- Supported team growth through technical leadership and code reviews.
-
----
-
-## Additional Notes
-
-Due to a non-disclosure agreement, proprietary code, assets, tools, and implementation details cannot be shared publicly.
+**Gameplay / Systems Programmer**  
+Focused on tools, systems architecture and enabling content creation workflows for designers.
