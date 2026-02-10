@@ -23,9 +23,9 @@ Focused on scalable gameplay architecture, tools, and player feel.
 MMO in development built with Unreal Engine 5.  
 Gameplay systems, Asset Manager usage, scalability-oriented architecture.
 
-[![Mu Online Reforged](assets/mu-reforged/thumbnail.jpg)](projects/mu-reforged)
+[![Mu Online Reforged](assets/mu-online-reforged/thumbnail.jpg)](projects/mu-online-reforged)
 
-### [Mu Online Reforged](projects/mu-reforged)
+### [Mu Online Reforged](projects/mu-online-reforged)
 
 Remake of the classic *Mu Online* developed in Unreal Engine 5.  
 Gameplay systems, multiplayer infrastructure, Asset Manager, editor tools, performance optimization.
