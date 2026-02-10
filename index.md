@@ -16,7 +16,7 @@ Focused on scalable gameplay architecture, tools, and player feel.
 
 ## Proyects
 
-[![Secret Forest](F:\Repo\portfolio\assets\secret-forest\thumbnail.jpg)](projects/secret-forest)
+[![Secret Forest](assets/secret-forest/thumbnail.jpg)](projects/secret-forest)
 
 ### [Secret Forest](projects/secret-forest)
 
