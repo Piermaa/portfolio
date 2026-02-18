@@ -12,15 +12,17 @@ Focused on scalable gameplay architecture, tools, and player feel.
 - [GitHub](https://github.com/Piermaa)
 - [Itch.io](https://pierma.itch.io/)
 
+
 ---
 
 ## Proyects
 
-[![Secret Forest](assets/secret-forest/thumbnail.jpg)](projects/secret-forest)
+[![Secret Forest](assets/secret-forest/thumbnail.png)](projects/secret-forest)
 ### [Secret Forest](projects/secret-forest)
 
 MMO in development built with Unreal Engine 5.  
 Gameplay systems, Asset Manager usage, scalability-oriented architecture.
+
 
 ---
 
@@ -30,6 +32,7 @@ Gameplay systems, Asset Manager usage, scalability-oriented architecture.
 Remake of the classic *Mu Online* developed in Unreal Engine 5.  
 Gameplay systems, multiplayer infrastructure, Asset Manager, editor tools, performance optimization.
 
+
 ---
 
 [![Mini-Golf Crusade](assets/minigolf-crusade/thumbnail.jpg)](projects/minigolf-crusade)
@@ -38,6 +41,7 @@ Gameplay systems, multiplayer infrastructure, Asset Manager, editor tools, perfo
 2D top-down mini-golf metroidvania built in Unity.  
 Gameplay systems, physics-driven movement, custom verticality solution, Addressables-based progression.
 
+
 ---
 
 [![Stalking Gaze](assets/stalking-gaze/thumbnail.jpg)](projects/stalking-gaze)
@@ -45,6 +49,7 @@ Gameplay systems, physics-driven movement, custom verticality solution, Addressa
 
 Atmospheric horror walking simulator developed in Unreal Engine.  
 Custom event framework designed to allow level designers to easily create, combine, and iterate on horror events and interactions.
+
 
 ---
 
