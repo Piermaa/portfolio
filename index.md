@@ -32,7 +32,7 @@ Gameplay systems, multiplayer infrastructure, Asset Manager, editor tools, perfo
 
 ---
 
-[![Mini-Golf Crusade](assets/minigolf-crusade/thumbnail.png)](projects/minigolf-crusade)
+[![Mini-Golf Crusade](assets/minigolf-crusade/thumbnail.jpg)](projects/minigolf-crusade)
 ### [Mini-Golf Crusade](projects/minigolf-crusade)
 
 2D top-down mini-golf metroidvania built in Unity.  
